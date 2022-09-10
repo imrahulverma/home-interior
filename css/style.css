@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.main{
+    height: 700px;
+    width: 100%;
+    background-image:url(/images1/interiorDesign.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+.menu{
+    margin-top:10px;
+}
+.menu ul li {
+    display: inline;
+    float: right;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    
+}
+.menu{
+    display: inline;
+    color: white;
+
+}
