@@ -6,7 +6,7 @@
 body{
     height: 700px;
     width: 100%;
-    background-image:url(images1/interiorDesign.png);
+    background-image:url(/images1/interiorDesign.png);
     background-repeat: no-repeat;
     background-position: cover;
 }
