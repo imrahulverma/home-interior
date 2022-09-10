@@ -3,37 +3,37 @@
     padding: 0;
     
 }
-.main{
+body{
     height: 700px;
     width: 100%;
     background-image:url(images1/interiorDesign.png);
     background-repeat: no-repeat;
     background-position: cover;
 }
-.menu{
+nav{
    
     display: block;
     word-spacing:30px;
     height: 70px;
     
 }
-.menu ul li{
+nav ul li{
     
     font-size: 15px;
     display: inline;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
- .menu ul{
+ nav ul{
     float: right;
     margin-right: 100px;
     margin-top: 30px;
  }
-.menu ul li a{
+nav ul li a{
     color: white;
     text-decoration: none;
    
 }
-.menu ul li a:hover{
+nav ul li a:hover{
     background-color:red;
     border-radius: 20px;
     padding-left: 20px;
